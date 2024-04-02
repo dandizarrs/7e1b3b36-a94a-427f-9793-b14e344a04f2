@@ -1,0 +1,2 @@
+1712074194.354909772s 1 https://dandiarchive.s3.amazonaws.com/zarr/7e1b3b36-a94a-427f-9793-b14e344a04f2/acquisition/TwoPhotonSeries/data/15146.7.2?versionId=k6AUvelWj7YeD41ZtMPwSagO.LG3WNux
+1712074194.363501907s 1 https://api.dandiarchive.org/api/zarr/7e1b3b36-a94a-427f-9793-b14e344a04f2/files?prefix=acquisition%2FTwoPhotonSeries%2Fdata%2F15146.7.2&download=true
